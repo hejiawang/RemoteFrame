@@ -13,6 +13,7 @@
         <module>../RMI</module>
         <module>../CXFTest</module>
         <module>../Axis2Test</module>
+        <module>../RpcFrame</module>
     </modules>
 
     <dependencies>
