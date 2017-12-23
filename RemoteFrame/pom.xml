@@ -14,6 +14,7 @@
         <module>../CXFTest</module>
         <module>../Axis2Test</module>
         <module>../RpcFrame</module>
+        <module>../IOTest</module>
     </modules>
 
     <dependencies>
